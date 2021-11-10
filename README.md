@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bfreiter
+- 👀 I’m interested in Computers and Electronics
+- 🌱 I’m currently learning Electrical Engineering
